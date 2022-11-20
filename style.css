@@ -1,0 +1,18 @@
+body{
+    margin:10%;
+    background-color:rgb(44, 39, 39);
+    width:30%
+}
+h2{
+    text-align:center;
+    color:rgb(255, 0, 123)
+}
+.n{
+    color:rgb(225, 19, 78);
+}
+ol{
+    color:aqua;
+}
+.m{
+    color:aqua
+}
